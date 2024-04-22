@@ -34,7 +34,7 @@ httptools==0.6.1
     # via -r requirements.piptools
 httpx==0.25.2
     # via -r requirements.piptools
-idna==3.6
+idna==3.7
     # via
     #   anyio
     #   httpx
