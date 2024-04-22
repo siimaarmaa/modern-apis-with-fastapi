@@ -28,7 +28,7 @@ click==8.1.7
     # via uvicorn
 colorama==0.4.6
     # via -r requirements.piptools
-fastapi==0.105.0
+fastapi==0.109.1
     # via -r requirements.piptools
 h11==0.14.0
     # via
